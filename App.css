@@ -1,0 +1,94 @@
+ body{
+  background-color: rgb(0, 0, 0);
+ }
+ .App
+ {
+  margin: 40PX auto;
+  width: 60%;
+  height: fit-content;
+  background-color: white;
+ }
+ .nav
+ {
+  display: flex;
+  justify-content: space-around;
+ }
+ .navcontainer1
+ {
+  display: flex;
+  justify-content: center;
+  flex-direction:column;
+  align-items: center;
+  width: 50%;
+ }
+h1{
+  color: brown;
+ }
+ .navcontainer2
+ {
+  width: 50%;
+
+ }
+ .navcontainer2 p 
+{
+  font-weight: bold;
+}
+.navcontainer2 p span{
+  font-weight: 400;
+}
+.summary
+{
+  width: 90%;
+  margin: 0px auto;
+}
+.summary p{
+  padding:0px 20px;
+  text-indent: 50px;
+
+}
+.Edu
+{
+  width: 90%;
+  margin: 0px auto;
+}
+.marks
+{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-left: 20px;
+}
+.Degree
+{
+  padding:0px 10px;
+  width: 60%;
+}
+.Year
+{
+  width: 15%;
+}
+.percent
+{
+  width: 25%;
+}
+.LastContainer
+{
+  width: 90%;
+  display: flex;
+  margin: 0px auto;
+}
+.Project
+{
+  width: 65%;
+}
+.Project1 p{
+  padding-left: 20px;
+}
+.Project1 span{
+  font-size: 1rem;
+  font-weight: bold;
+}
+.Skills
+{
+  padding-left: 20px;
+}
